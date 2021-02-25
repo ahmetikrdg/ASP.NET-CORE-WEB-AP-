@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFIa6y/P/ksuWeQ1FnAOndum7EfEFauuXt4Rxc7CWSxpr7TJTSTN9CI4AEWpOXn1UqI2LZGrm9nVjuMBOiLPYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmet\\OneDrive\\Masaüstü\\repos\\HotelFinder\\HotelFinder.UI\\HotelFinder.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\system.net.http.formatting.extension\\5.2.3\\system.net.http.formatting.extension.5.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http.Formatting.Extension 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Net.Http.Formatting.Extension",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

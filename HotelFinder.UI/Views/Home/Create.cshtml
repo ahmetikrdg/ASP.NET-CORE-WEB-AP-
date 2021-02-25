@@ -1,0 +1,12 @@
+﻿@model HotelModel 
+<form asp-controller="Home" asp-action="Create" method="post">
+    <div class="form-row">
+        <div class="col">
+            <input type="text" asp-for="Name" class="form-control" placeholder="First name">
+        </div>
+        <div class="col">
+            <input type="text" asp-for="City" class="form-control" placeholder="Last name">
+        </div>
+    </div>
+    <button type="submit">Gönder</button>
+</form>
